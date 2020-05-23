@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: center;
+}
+table#t01 {
+  width: 100%;    
+  background-color: #f1f1c1;
+}
+h2 {
+color:Orange;
+}
+</style>
+</head>
+<body>
+
+<h2>Almanaque Sala Naranaja</h2>
+
+<table style="width:100%">
+  <tr> <!--Acá empiezan lostítulos.-->
+    	<th>Horarios.</th>
+    	<th>Lunes.</th> 
+    	<th>Martes.</th>
+		<th>Miercoles.</th>
+		<th>Jueves.</th>
+		<th>Viernes.</th>
+  </tr>
+  <tr> <!--Acá empieza la primera linea.-->
+    <td>12:30 a 13:00Hs.</td>
+     <!--Lunes-->
+    	<td>Inglés- Miss Cami. 				<br>
+        Canguros 15' (12:30 Hs.) 			<br>
+        Conejos  15' (12:45 HS.)        
+    	</td>
+     <!--Martes-->
+    	<td>INGLÉS<br>
+    	Por<br>
+        INSTAGRAM</td>
+     <!--Miércoles-->
+    	<td>Inglés - Miss Cami.<br>
+        Canguros 15' (12:30 Hs.) 		<br>
+        Conejos  15' (12:45 HS.) 		</td>
+     <!--Jueves-->
+        <td>INGLÉS<br>
+    	Por<br>
+        INSTAGRAM</td>
+     <!--Viernes-->
+        <td>Inglés- Miss Cami.<br>
+        Canguros 15' (12:30 Hs.) 		<br>
+        Conejos  15' (12:45 HS.)        
+    	</td>
+  </tr>
+  <tr> <!--Acá empieza la segunda linea.-->
+    <td>13:00 A 13:30 Hs.</td>
+    <!--Lunes-->
+    <td></td>
+    <!--Martes-->
+    <td></td>
+    <!--Miércoles-->
+    <td></td>
+    <!--Jueves-->
+    <td></td>
+    <!--Viernes-->
+    <td></td>
+    
+  </tr>
+  <tr> <!--Acá empieza la tercera linea.-->
+    <td>13:30 A 14:00 Hs.</td>
+    <!--Lunes-->
+    <td></td>
+    <!--Martes-->
+    <td></td>
+    <!--Miércoles-->
+    <td></td>
+    <!--Jueves-->
+    <td></td>
+    <!--Viernes-->
+    <td></td>
+  </tr>
+  <tr> <!--Acá empieza la cuarta linea.-->
+  	<td>14:00 A 14:30 Hs.</td>
+    <!--Lunes-->
+    <td></td>
+    <!--Martes-->
+    <td></td>
+    <!--Miércoles-->
+    <td></td>
+    <!--Jueves-->
+    <td></td>
+    <!--Viernes-->
+    <td></td>
+  </tr>
+  <tr> <!--Acá empieza la quinta linea.-->
+    <td>14:30 a 15:00Hs.</td>
+    <!--Lunes-->
+    	<td>Seño Mica.<br>
+        Canguros 15' (14:30 Hs.) 		<br>
+        Conejos  15' (14:45 HS.)        
+    	</td>
+     <!--Martes-->
+    	<td>MÚSICA.<br>
+    	Canguros 15' (14:30 Hs.) 		<br>
+        Conejos  15' (14:45 HS.) 		</td>
+     <!--Miércoles-->
+    	<td>Seño Mica.<br>
+        Canguros 15' (14:30 Hs.) 		<br>
+        Conejos  15' (14:45 HS.)        
+    	</td>
+     <!--Jueves-->
+        <td>MÚSICA.<br>
+    	Canguros 15' (14:30 Hs.) 		<br>
+        Conejos  15' (14:45 HS.) 		</td>
+     <!--Viernes-->
+        <td>Seño Mica.<br>
+        Canguros 15' (14:30 Hs.) 		<br>
+        Conejos  15' (14:45 HS.)        
+    	</td>
+  </tr>
+  <tr> <!--Acá empieza la sexta linea.-->
+  	<td>15:00 A 15:30 Hs.</td>
+    <!--Lunes-->
+    <td></td>
+    <!--Martes-->
+    <td></td>
+    <!--Miércoles-->
+    <td></td>
+    <!--Jueves-->
+    <td></td>
+    <!--Viernes-->
+    <td></td>
+  </tr>
+  <tr> <!--Acá empieza la séptima linea.-->
+  	<td>15:30 A 16:00 Hs.</td>
+    <!--Lunes-->
+    <td></td>
+    <!--Martes-->
+    <td></td>
+    <!--Miércoles-->
+    <td></td>
+    <!--Jueves-->
+    <td></td>
+    <!--Viernes-->
+    <td></td>
+  </tr>
+  <tr> <!--Acá empieza la Octaba linea.-->
+  	<td>16:10 A 16:40 Hs.</td>
+    <!--Lunes-->
+    <td></td>
+    <!--Martes-->
+    <td></td>
+    <!--Miércoles-->
+    <td><p style="color:blue;"> COMPUTACIÓN <br></p> 
+    Canguros 15' (16:10 Hs.) 		<br>
+    Conejos  15' (16:25 HS.)
+    </td>
+    <!--Jueves-->
+    <td></td>
+    <!--Viernes-->
+    <td></td>
+  </tr>
+  
+</table>
+<br>
+
+<table id="t01">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+</body>
+</html>
